@@ -10,3 +10,4 @@ The Lambda function fetches all EBS snapshots owned by the same account ('self')
 
 
 
+
